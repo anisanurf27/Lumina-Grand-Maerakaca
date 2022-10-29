@@ -1,16 +1,21 @@
-# aplikasi_tempat_wisata
+# Aplikasi Tempat Wisata Lumina Grand Maerakaca
 
-A new Flutter project.
+Location : Semarang City, Central Java
 
-## Getting Started
+..
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Create by :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Nama    : Anisa Nur Fadhilah
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NIM     : 3.34.21.0.05
+
+Kelas  : IK-2A
+
+..
+
+
+# Image View This Aplication
+
+![Lumina-Grand-Maerakaca](https://user-images.githubusercontent.com/116789509/198810907-df76d029-8c5f-40cd-bf7e-80576cff1eb8.png)
